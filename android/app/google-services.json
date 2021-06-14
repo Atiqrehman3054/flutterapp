@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "797614128767",
+    "project_id": "flutterpushnotification-374d0",
+    "storage_bucket": "flutterpushnotification-374d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797614128767:android:f81179bdbe9ad9f2bb494a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797614128767-cn1i6n7aa5b06mam5nbet6cvpndb5kou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArhbA2jTNagmgYZWfAFvpHnD7pss8HtqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797614128767-cn1i6n7aa5b06mam5nbet6cvpndb5kou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797614128767:android:c03faeed47831006bb494a",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797614128767-292mdavgagon3qilvoinpnpoeeu1qrca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushnotification",
+            "certificate_hash": "0a589a57482cf27deddc11cad9ac9d4372383385"
+          }
+        },
+        {
+          "client_id": "797614128767-cn1i6n7aa5b06mam5nbet6cvpndb5kou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArhbA2jTNagmgYZWfAFvpHnD7pss8HtqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797614128767-cn1i6n7aa5b06mam5nbet6cvpndb5kou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
